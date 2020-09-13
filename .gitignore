@@ -3,10 +3,6 @@
 .vscode/
 p5-recommendation_engine.code-workspace
 
-# data #
-########
-data/
-
 # tests #
 #########
 project_tests.py
