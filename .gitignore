@@ -10,3 +10,7 @@ project_tests.py
 # pycache #
 ###########
 __pycache__/
+
+# lessons' solutions #
+######################
+solutions/
