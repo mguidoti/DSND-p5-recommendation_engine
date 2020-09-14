@@ -10,3 +10,7 @@ __pycache__/
 # lessons' solutions #
 ######################
 solutions/
+
+# others #
+##########
+submission_message.txt
