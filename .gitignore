@@ -3,10 +3,6 @@
 .vscode/
 p5-recommendation_engine.code-workspace
 
-# tests #
-#########
-project_tests.py
-
 # pycache #
 ###########
 __pycache__/
